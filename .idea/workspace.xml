@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6470e2-1472-44f2-921e-3af2febdb217" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/controller/StudentFromController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/Student-from.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/StudentFromController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/StudentFromController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/UrudUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/CrudUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Student-from.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Student-from.fxml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +34,17 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="ijse@localhost [2]" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ijse@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ijse@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ijse: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
     </expand>
     <select />
   </component>
@@ -41,6 +53,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="JavaFXApplication" />
       </list>
     </option>
   </component>
@@ -75,6 +88,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppInitializer" />
+      <module name="DBP practical" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="allServicesViewState">
@@ -115,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657595474020</updated>
-      <workItem from="1657595476777" duration="5395000" />
+      <workItem from="1657595476777" duration="6420000" />
     </task>
     <servers />
   </component>
